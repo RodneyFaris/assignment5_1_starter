@@ -1,4 +1,3 @@
-
 "#Practical Application 1"
 "### Bar Coupon Summary:\n"
 "Drivers under 30, not widowed, who go to bars more than once a month, and travel with/n friends or a partner, are significantly more likely to accept Bar coupons—about 72% vs./n 56.6% for others.\n"  
@@ -15,5 +14,3 @@
 "Insight: Acceptance is strongest among young adults, evening outings with a partner, and mid-income drivers. Targeting these conditions could boost coupon effectiveness.\n"
 
 [Jupyter Notebook for Assignment 5.1 Starter](https://github.com/RodneyFaris/assignment5_1_starter/blob/main/prompt.ipynb)
-
-
