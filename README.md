@@ -2,7 +2,7 @@
 "#Practical Application 1"
 "### Bar Coupon Summary:\n"
 "Drivers under 30, not widowed, who go to bars more than once a month, and travel with/n friends or a partner, are significantly more likely to accept Bar coupons—about 72% vs./n 56.6% for others.\n"  
-"This suggests that Bar coupons appeal to younger drivers who regularly/n go out socially with friends or a partner.\n"
+"This suggests that Bar coupons appeal to younger drivers who regularly\n go out socially with friends or a partner.\n"
 
 "**Restaurant(20–50) Coupon Summary:\n"
 "-	Acceptance Rate: 44.1% (658 of 1492)\n"
